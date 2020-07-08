@@ -1,0 +1,6 @@
+PROGRAMA DE LOGIN EN PHP CREADO POR FRANCISCO LÓPEZ SÁNCHEZ
+
+1. Instalar XAMPP.
+2. Configurar servidor de correo correctamente ( https://www.it-swarm.dev/es/php/como-configurar-xampp-para-enviar-correo-desde-localhost/1072188908/ ).
+3. Copiar carpeta del proyecto en la carpeta htdocs.
+4. Ejecutar la aplicación desde un navegador web.

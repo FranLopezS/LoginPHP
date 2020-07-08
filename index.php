@@ -1,0 +1,1 @@
+<html><body><center><b><a href="iniciosesion.php">Iniciar sesión</a></b> | <b><a href="registro.php">Registrarse</a></b></center></body></html>
